@@ -1,0 +1,19 @@
+{
+  "name": "frontend-challenge-server",
+  "version": "1.0.0",
+  "description": "Fake REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doc88git/frontend-challenge-server.git"
+  },
+  "author": "doc88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doc88git/frontend-challenge-server/issues"
+  },
+  "homepage": "https://github.com/doc88git/frontend-challenge-server#readme"
+}
