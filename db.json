@@ -1,0 +1,22 @@
+{
+  "pedidos": [
+    {
+      "uuid": "5ff8b150-ed3f-11ea-adc1-0242ac120002",
+      "type": "food",
+      "image": "https://raw.githubusercontent.com/doc88git/frontend-challenge-server/master/public/01-mussarela7-600x500.png",
+      "title": "Oito oito",
+      "flavor": "Picante",
+      "price": 49.9,
+      "description": "Molho, mussarela, calabresa, cebola fatiada e orégano."
+    },
+    {
+      "uuid": "6a7640a2-ed3f-11ea-adc1-0242ac120002",
+      "type": "food",
+      "image": "https://raw.githubusercontent.com/doc88git/frontend-challenge-server/master/public/03-calabresa3.png",
+      "title": "De volta para o futuro",
+      "flavor": "Saborosa",
+      "price": 59.9,
+      "description": "Molho, mussarela, tomates em rodelas e manjericão."
+    }
+  ]
+}
